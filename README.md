@@ -1,4 +1,4 @@
-☕ Bright Coffee Shop Sales Analysis
+#☕ Bright Coffee Shop Sales Analysis
 
 📊 Project Overview
 This project presents a comprehensive sales analysis of Bright Coffee Shop, aimed at understanding business performance, customer behavior, and revenue trends across different locations, time periods, and product categories.
@@ -22,13 +22,15 @@ Provide actionable business recommendations
 
 The dataset includes:
 
-Transaction dates and times
-Product categories (Coffee, Tea, Bakery, etc.)
-Sales amounts
-Store locations:
+-Transaction dates and times
+-Product categories (Coffee, Tea, Bakery, etc.)
+
+
+-Store locations:
 Hell’s Kitchen
 Astoria
 Lower Manhattan
+
 📈 Key Findings
 💰 Overall Sales
 Total sales (Jan–Jun): R698,812.33
@@ -61,7 +63,10 @@ Expensive products perform poorly (low visibility or value perception)
 Mid-mornings have the highest sales
 Customers buying before/going to work
 Cold weather increases demand
+
+
 📆 Day-Based Insights
+
 Monday: Highest revenue (commuter traffic)
 Saturday: Lowest revenue (different routines)
 📍 Location Analysis
@@ -75,7 +80,7 @@ Use social media marketing and influencers
 Gather customer feedback (polls/surveys)
 🌞 Boost Summer Sales (Jan–Feb)
 
-Introduce trending seasonal products:
+Trending seasonal products:
 
 Iced coffee
 Ice tea
@@ -86,7 +91,10 @@ Introduce loyalty programs (e.g., Buy 1 Get 1 Free)
 Expand menu:
 Light meals (salads, avocado toast)
 Vegan and gluten-free options
-🛠️ Tools & Skills Used
+
+
+#🛠️ Tools & Skills Used
+
 SQL (data querying & analysis)
 Excel (data cleaning & preparation)
 Data visualization (presentation insights)
@@ -98,7 +106,8 @@ This project highlights key factors affecting Bright Coffee Shop’s performance
 Increase revenue
 Improve customer satisfaction
 Strengthen market competitiveness
-👩🏽‍💻 Author
 
+
+👩🏽‍💻 Author
 Andiswa Asanda Mchunu
 Junior Data Analyst
