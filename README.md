@@ -1,6 +1,6 @@
 #☕ Bright Coffee Shop Sales Analysis
 
-##📊 Project Overview
+📊 Project Overview
 
 This project presents a comprehensive sales analysis of Bright Coffee Shop, aimed at understanding business performance, customer behavior, and revenue trends across different locations, time periods, and product categories.
 
